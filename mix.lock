@@ -1,4 +1,4 @@
-%{"decimal": {:package, "0.2.4"},
+%{"decimal": {:git, "git://github.com/aforward/decimal.git", "b261fa9daeacfdfa1a675b540ffd2194901f7592", []},
   "earmark": {:package, "0.1.10"},
   "ex_doc": {:package, "0.6.0"},
   "hoedown": {:git, "git://github.com/hoedown/hoedown.git", "0610117f44b173a4e2112afb2f510156a32355b5", []},
